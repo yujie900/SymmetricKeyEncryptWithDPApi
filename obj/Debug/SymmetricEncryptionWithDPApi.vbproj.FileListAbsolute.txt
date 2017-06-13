@@ -1,0 +1,1 @@
+c:\users\yugie wu\documents\visual studio 2015\Projects\SymmetricEncryptionWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.exe.config
