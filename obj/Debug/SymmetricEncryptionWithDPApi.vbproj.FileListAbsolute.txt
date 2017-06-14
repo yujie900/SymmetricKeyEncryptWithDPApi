@@ -1,1 +1,11 @@
 c:\users\yugie wu\documents\visual studio 2015\Projects\SymmetricEncryptionWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.exe.config
+C:\Repos\SymmetricKeyEncryptWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.exe.config
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.vbprojResolveAssemblyReference.cache
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.Resources.resources
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.vbproj.GenerateResource.Cache
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.xml
+C:\Repos\SymmetricKeyEncryptWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.exe
+C:\Repos\SymmetricKeyEncryptWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.pdb
+C:\Repos\SymmetricKeyEncryptWithDPApi\bin\Debug\SymmetricEncryptionWithDPApi.xml
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.exe
+C:\Repos\SymmetricKeyEncryptWithDPApi\obj\Debug\SymmetricEncryptionWithDPApi.pdb

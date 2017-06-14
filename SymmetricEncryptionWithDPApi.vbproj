@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6FA38EEF-8E01-4C51-B669-9FA2FD92A7C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>SymmetricEncryptionWithDPApi.Module1</StartupObject>
+    <StartupObject>SymmetricEncryptionWithDPApi.TrippleDescspSample</StartupObject>
     <RootNamespace>SymmetricEncryptionWithDPApi</RootNamespace>
     <AssemblyName>SymmetricEncryptionWithDPApi</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,8 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Encryptor.vb" />
-    <Compile Include="Module1.vb" />
+    <Compile Include="KeyProtector.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -86,6 +85,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="TrippleDESCSPSample.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
